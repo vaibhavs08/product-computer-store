@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "product_sku": "atv",
+        "rule" : "BUY_X_FOR_Y",
+        "x": 3,
+        "y": 2
+    },
+    {
+        "id": "2",
+        "product_sku": "ipd",
+        "rule" : "BUY_MORE_THAN",
+        "threshold": 4,
+        "price": 499.99
+    }
+]
